@@ -1,0 +1,6 @@
+
+
+
+DATASOURCE_URL=jdbc:mysql://localhost:3306/ecom_drog
+DATASOURCE_USER=root
+DATASOURCE_PASSWORD=Mysql@579@
